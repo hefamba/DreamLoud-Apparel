@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/DreamLoud-Apparel/static/css/main.2abb73a4.css",
+    "main.js": "/DreamLoud-Apparel/static/js/main.60647aba.js",
+    "static/js/787.26a498bf.chunk.js": "/DreamLoud-Apparel/static/js/787.26a498bf.chunk.js",
+    "static/media/hoodie_blue.jpg": "/DreamLoud-Apparel/static/media/hoodie_blue.52087f9c83ed2bc92fd1.jpg",
+    "static/media/Second.jpg": "/DreamLoud-Apparel/static/media/Second.ff49efb6ae860b901599.jpg",
+    "static/media/tee_pink.jpg": "/DreamLoud-Apparel/static/media/tee_pink.d7ff1986ee82a200bb90.jpg",
+    "static/media/hoodie_pocketpurple.jpg": "/DreamLoud-Apparel/static/media/hoodie_pocketpurple.c37a1f4f74eec54c5004.jpg",
+    "static/media/Third.jpg": "/DreamLoud-Apparel/static/media/Third.91cf85c4c62ab6e31482.jpg",
+    "static/media/sweatpants_pocketyellow.jpg": "/DreamLoud-Apparel/static/media/sweatpants_pocketyellow.4b258cbecbccf1fc5fbf.jpg",
+    "static/media/First.jpg": "/DreamLoud-Apparel/static/media/First.f4947a21519d17e6c047.jpg",
+    "index.html": "/DreamLoud-Apparel/index.html",
+    "main.2abb73a4.css.map": "/DreamLoud-Apparel/static/css/main.2abb73a4.css.map",
+    "main.60647aba.js.map": "/DreamLoud-Apparel/static/js/main.60647aba.js.map",
+    "787.26a498bf.chunk.js.map": "/DreamLoud-Apparel/static/js/787.26a498bf.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2abb73a4.css",
+    "static/js/main.60647aba.js"
+  ]
+}
